@@ -1,0 +1,53 @@
+	body {
+		width: 100%;
+		height: 100%;
+		background-color: #d7e7f4;
+	}
+	
+	img {
+		margin-left: 22px;
+	}
+	
+	.Title {
+		float: right;
+	}
+	
+	.Text1 {
+		margin-top: 22px;
+	}
+	
+	a {
+		color: #007baf;
+		margin-left: 147px;
+	}
+	
+	.Text2 {
+		margin-right: 41px;
+	}
+	
+	.Box1 {
+		margin-top: 16px;
+		padding-right: 25px;
+	}
+	
+	.blank {
+		width: 22px;
+	}
+	
+	.content-center {
+		background-color: white;
+		margin-left: 12%;
+		width: 954px;
+		height: 954px;
+		margin-top: -6px;
+	}
+	
+	.Btn {
+		color: white;
+		background-color: #007baf;
+	}
+	
+	hr {
+		margin-top: 300px;
+		border: 2px solid black;
+	}
